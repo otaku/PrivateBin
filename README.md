@@ -114,3 +114,9 @@ file](https://github.com/PrivateBin/PrivateBin/wiki/Configuration):
 
 Run into any issues? Have ideas for further developments? Please
 [report](https://github.com/PrivateBin/PrivateBin/issues) them!
+
+---
+
+Cross-browser testing provided by:
+
+<a href="http://browserstack.com"><img height="70" src="https://d98b8t1nnulk5.cloudfront.net/production/images/static/header/header-logo.svg" alt="BrowserStack"></a>
